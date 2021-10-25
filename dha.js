@@ -82,7 +82,7 @@ let setting = JSON.parse(fs.readFileSync('./setting.json'))
 owner = setting.owner
 gamewaktu = setting.gamewaktu
 petik = '```'
-fake = '© Creator Akbar Botz'//GANTI NAMA KAMU BEP
+fake = '© Creator FERI Botz'//GANTI NAMA KAMU BEP
 ban =[]
 
 // Database
@@ -844,9 +844,9 @@ dha.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ➤ *Baterai :* ${baterai}%
 
 「 *INFO BOT* 」
-➤ *Nama :* Akbar Botz
-➤ *Nomor :* @6283890109310
-➤ *Owner :* AKBAR BOTZ
+➤ *Nama :* FERI Botz
+➤ *Nomor :* @6283129083971
+➤ *Owner :* FERI STORE
 ➤ *Aktif :* ${runtime(process.uptime())}
 ➤ *Prefix :* 『> ${prefix} <』
 
